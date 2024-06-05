@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\MagickTest.csproj": {}
+    "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\MagickTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\MagickTest.csproj": {
+    "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\MagickTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\MagickTest.csproj",
+        "projectUniqueName": "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\MagickTest.csproj",
         "projectName": "MagickTest",
-        "projectPath": "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\MagickTest.csproj",
+        "projectPath": "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\MagickTest.csproj",
         "packagesPath": "C:\\Users\\Filip.Gustavsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\obj\\",
+        "outputPath": "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip.Gustavsson\\AppData\\Roaming\\NuGet\\NuGet.Config",

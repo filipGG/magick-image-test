@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagickTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a20bc73eccb7f5dcff0e54e22cf350601efe49")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagickTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagickTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

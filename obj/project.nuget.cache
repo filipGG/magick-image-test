@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLi6JHd13dBnDSuyW2XX+30mzO0mlKpdGhuYIpQX3rxIaR9uE2fK/tr6XcuiRBd38r9frTU9SwRvAAzHd8p7lw==",
+  "dgSpecHash": "HGwIyywwgw3b7e+W5BFKY6k9d/r3EeEHmhbeTDhIx+D44UQo8eAsigveXeicNBNmrKIHcwXLj8JAioemeO9r0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Filip.Gustavsson\\Programming\\MagickTest\\MagickTest.csproj",
+  "projectFilePath": "C:\\Users\\Filip.Gustavsson\\Programming\\magick-image-test\\MagickTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Filip.Gustavsson\\.nuget\\packages\\magick.net-q16-anycpu\\13.8.0\\magick.net-q16-anycpu.13.8.0.nupkg.sha512",
     "C:\\Users\\Filip.Gustavsson\\.nuget\\packages\\magick.net.core\\13.8.0\\magick.net.core.13.8.0.nupkg.sha512"
